@@ -1,6 +1,6 @@
 # 🚀 MERN Dockerized Task Manager
 
-A simple full-stack **Task Manager App** built using the MERN stack and containerized with Docker.
+Full-stack **Task Manager App** built using the MERN stack and containerized with Docker.
 
 ---
 
